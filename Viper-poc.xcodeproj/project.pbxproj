@@ -56,6 +56,12 @@
 		1B4FEB6827D68718001E954F /* Viper-poc */ = {
 			isa = PBXGroup;
 			children = (
+				1B4FEB7D27D689A3001E954F /* Protocols */,
+				1B4FEB7E27D689AE001E954F /* Entity */,
+				1B4FEB7F27D689B4001E954F /* Interactor */,
+				1B4FEB8027D689BA001E954F /* Presenter */,
+				1B4FEB8127D689BE001E954F /* Router */,
+				1B4FEB8227D689C4001E954F /* View */,
 				1B4FEB6927D68718001E954F /* AppDelegate.swift */,
 				1B4FEB6B27D68718001E954F /* SceneDelegate.swift */,
 				1B4FEB6D27D68718001E954F /* ViewController.swift */,
@@ -65,6 +71,48 @@
 				1B4FEB7727D6871A001E954F /* Info.plist */,
 			);
 			path = "Viper-poc";
+			sourceTree = "<group>";
+		};
+		1B4FEB7D27D689A3001E954F /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		1B4FEB7E27D689AE001E954F /* Entity */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Entity;
+			sourceTree = "<group>";
+		};
+		1B4FEB7F27D689B4001E954F /* Interactor */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Interactor;
+			sourceTree = "<group>";
+		};
+		1B4FEB8027D689BA001E954F /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		1B4FEB8127D689BE001E954F /* Router */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		1B4FEB8227D689C4001E954F /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
